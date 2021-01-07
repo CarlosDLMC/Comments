@@ -20,4 +20,4 @@ while True:
     comment = input("comment: ")
     if comment == "q":
         break
-    print(predict(comment) * 100, "por ciento")
+    print(predict(comment) * 100, "por ciento y pico")
